@@ -1,6 +1,2 @@
 fastapi
-pyyaml
-Pillow
-matplotlib
-numpy
-pandas
+uvicorn
