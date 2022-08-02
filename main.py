@@ -13,6 +13,25 @@ fake_items_db = [
 ]
 
 app = FastAPI()
+
+@app.get("/items/art/{country}")
+async def read_art(country:str):
+    a = {"Hello_Art":country}
+    info = {
+        'product':[{
+            'p_name':'星の力',
+            'p_year':1999,
+            'p_genre':'pop',
+        }],
+        'author':[{
+            'a_name':'Tyanri-',
+            'a_birthday':'2102-13-19',
+            'a_from': 'Japan',
+            'a_info': 'アプリ作るの大好き絵を描くの大好きゲーム大好き'
+        }]
+    }
+    return info
+
 @app.get("/items/{item_id}")
 async def read_items(item_id:str, q:Union[str, None]=None):
     if q:
