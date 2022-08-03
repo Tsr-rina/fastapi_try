@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from enum import Enum
 from typing import Union
+import json
+
 
 class ModelName(str, Enum):
     Hon = "Kim"
@@ -12,25 +14,19 @@ fake_items_db = [
     {"item_name": "Lemon"}
 ]
 
+
 app = FastAPI()
 
 @app.get("/items/art/{country}")
 async def read_art(country:str):
     a = {"Hello_Art":country}
-    info = {
-        'product':[{
-            'p_name':'星の力',
-            'p_year':1999,
-            'p_genre':'pop',
-        }],
-        'author':[{
-            'a_name':'Tyanri-',
-            'a_birthday':'2102-13-19',
-            'a_from': 'Japan',
-            'a_info': 'アプリ作るの大好き絵を描くの大好きゲーム大好き'
-        }]
-    }
-    return info
+    json_open = open('art_info.json', 'r')
+    json_load = json.load(json_open)
+
+    if country == "japan":
+        return json_load['product'][0]['p_name']
+    else:
+        return {"X":"Japan"}
 
 @app.get("/items/{item_id}")
 async def read_items(item_id:str, q:Union[str, None]=None):
