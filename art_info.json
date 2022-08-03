@@ -1,13 +1,294 @@
 {
-    "product":[{
-        "p_name":"星の力",
-        "p_year":1999,
-        "p_genre":"pop"
+	"japan":[{
+        "product_j1":[{
+            "p_name":"貝甲図",
+            "p_kana":"Baikozu",
+            "p_year":"1761-1765",
+            "p_explanation":"磯はちりばめられたような貝づくし。「貝甲」は「貝殻」の意",
+            "author":[{
+                "a_name":"伊藤若冲",
+                "a_kana":"Jakucyu Ito",
+                "a_birthday":"1716-03-01",
+                "a_from": "Japan",
+                "a_info": "1716年（正徳6年）、京・錦小路にあった青物問屋「枡屋」（家名と併せて通称「枡源（ますげん）」）の長男として生を受ける。問屋の仕事は小売ではなく、生産者や仲買・小売の商人に場所を提供して販売させ、彼らの関係を調整しつつ売場の使用料を徴収する流通業者である。桝屋は多数の商人を管轄していたらしく、商人たちから場所代を取れば十分な利益を上げることが出来たという。23歳のとき、父・源左衛門の死去に伴い、4代目枡屋（伊藤）源左衛門を襲名する。「若冲」の号は、禅の師であった相国寺の禅僧・大典顕常あるいは月海元照（売茶翁）から与えられたと推定される居士号であり、『老子』45章の「大盈若沖（沖は「虚しい、空っぽ」の意、冲は沖の俗字）」から採られた。意味は「大いに充実しているものは、空っぽのようにみえる」である。大典の書き遺した記録「藤景和画記」（『小雲棲稿』巻八）によると、若冲という人物は絵を描くこと以外、世間の雑事には全く興味を示さなかったという。商売には熱心でなく、芸事もせず、酒も嗜まず、生涯、妻も娶らなかった。商人時代、若冲は家業を放棄して2年間丹波の山奥に隠棲してしまい、その間、山師が枡源の資産を狙って暗躍し、青物売り3千人が迷惑したという逸話が残る。ただし、この逸話は後述する錦市場に起こった事件と共通する記述が多いことから、事件を元に後世に作り変えられた話だと考えられる。",
+                "a_url":"https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E8%8B%A5%E5%86%B2"
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_j2":[{
+            "p_name":"相馬の古内裏",
+            "p_kana":"Somanohurudairi",
+            "p_year":"1845-46",
+            "p_explanation":"荒れ果てた廃屋に妖怪が出没した",
+            "author":[{
+                "a_name":"歌川国芳",
+                "a_kana":"Kuniyoshi Utagawa",
+                "a_birthday":"1798-01-01",
+                "a_from": "Japan",
+                "a_info": "画号は文政初年から万延元年にかけて一勇斎国芳といい、後に彩芳舎（文政中期）、朝桜楼（天保初年から万延元年）、雪谷、仙真とも号した。歌川を称し、狂歌の号に柳燕、隠号に一妙開程芳といった。江戸時代末期を代表する浮世絵師の一人であり、画想の豊かさ、斬新なデザイン力、奇想天外なアイデア、確実なデッサン力を持ち、浮世絵の枠にとどまらない広範な魅力を持つ作品を多数生み出した。"
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_j3":[{
+            "p_name":"東海道五十三次",
+            "p_kana":"Tokaido-goju-santsugi",
+            "p_year":"江戸時代(詳細不明)",
+            "p_explanation":"江戸時代に整備された五街道の1つ、東海道にある53の宿場を指す",
+            "author":[{
+                "a_name":"葛飾北斎",
+                "a_kana":"Hokusai Katsusika",
+                "a_birthday":"1760-10-31",
+                "a_from": "Japan",
+                "a_info": "代表作に『冨嶽三十六景』や『北斎漫画』があり、世界的にも著名な画家である。森羅万象を描き、生涯に3万点を超える作品を発表した。若い時から意欲的であり、版画のほか、肉筆浮世絵にも彼の卓越した描写力を見ることができる。さらに、読本（よみほん）・挿絵芸術に新機軸を見出したことや、『北斎漫画』を始めとする絵本を多数発表したこと、毛筆による形態描出に敏腕を奮ったことなどは、絵画技術の普及や庶民教育にも益するところ大であった。 シーボルト事件では摘発されそうになったが、川原慶賀が身代わりとなり、難を逃れている。ありとあらゆるものを描き尽くそうとした北斎は、晩年、銅版画やガラス絵も研究、試みたようである。また、油絵に対しても関心が強かったが、長いその生涯においても、遂に果たせなかった。"
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_j4":[{
+            "p_name":"朝顔狗子図杉戸",
+            "p_kana":"Asagaokushizusugito",
+            "p_year":"1784",
+            "p_explanation":"犬が描かれている",
+            "author":[{
+                "a_name":"円山応挙",
+                "a_kana":"Okyo Maruyama",
+                "a_birthday":"1733-06-12",
+                "a_from": "Japan",
+                "a_info": "近現代の京都画壇にまでその系統が続く「円山派」の祖であり、写生を重視した親しみやすい画風が特色である。諸説あるが「足のない幽霊」を描き始めた画家とも言われている。"
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_j5":[{
+            "p_name":"燕子花図",
+            "p_kana":"Kakitsubatabyobu",
+            "p_year":"18世紀",
+            "p_explanation":"国宝に指定されている",
+            "author":[{
+                "a_name":"尾形光琳",
+                "a_kana":"Korin Ogata",
+                "a_birthday":"1658",
+                "a_from": "Japan",
+                "a_info": "尾形光琳は、江戸時代中期を代表する画家のひとりである。京都の呉服商「雁金屋」の次男として生まれ、主に京都の富裕な町衆を顧客とし、王朝時代の古典を学びつつ、明快で装飾的な作品を残した。その非凡な意匠感覚は「光琳模様」という言葉を生み、現代に至るまで日本の絵画、工芸、意匠などに与えた影響は大きい。画風は大和絵風を基調にしつつ、晩年には水墨画の作品もある。大画面の屏風のほか、香包、扇面、団扇などの小品も手掛け、手描きの小袖、蒔絵などの作品もある。また、実弟の尾形乾山の作った陶器に光琳が絵付けをするなど、その制作活動は多岐にわたっている。"
+            }],
+            "by": "Wikipedia"
+        }]
     }],
-    "author":[{
-        "a_name":"Tyanri-",
-        "a_birthday":"2102-13-19",
-        "a_from": "Japan",
-        "a_info": "アプリ作るの大好き絵を描くの大好きゲーム大好き"
+
+	"France":[{
+        "product_f1":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"ポール・セザンヌ",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "France",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_f2":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"ポール・ゴーギャン",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "France",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_f3":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"マルセン・デュシャン",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "France",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_f4":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"アンリ・マティス",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "France",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_f5":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"クロード・モネ",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "France",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }]
+
+    }],
+    "America":[{
+        "product_a1":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"アンディ・ウォーホル",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_a2":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"ジャクソン・ポロック",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_a3":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"アレクサンダー・カルダー",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_a4":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"エドワード・ホッパー",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_a5":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"マーク・ロスコ",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }]        
+    }],
+    "Italy":[{
+        "product_i1":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"アンディ・ウォーホル",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_i2":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"ジャクソン・ポロック",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_i3":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"アレクサンダー・カルダー",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_i4":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"エドワード・ホッパー",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_i5":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"マーク・ロスコ",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "America",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }]        
     }]
+	
 }

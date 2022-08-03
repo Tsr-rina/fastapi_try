@@ -15,24 +15,37 @@ fake_items_db = [
 ]
 
 
+new_ver = "2"
+
+
+json_open = open('art_info.json', 'r')
+json_load = json.load(json_open)
+
 app = FastAPI()
 
-@app.get("/items/art/{country}")
-async def read_art(country:str):
+# 国指定ver
+@app.get("/items/art/{version}/{country}")
+async def read_art_c(version:str, country:str):
     a = {"Hello_Art":country}
-    json_open = open('art_info.json', 'r')
-    json_load = json.load(json_open)
-
-    if country == "japan":
-        return json_load['product'][0]['p_name']
+    if version[-1] == new_ver:
+        return json_load[country]
     else:
-        return {"X":"Japan"}
+        if version[-1] != new_ver:
+            return "{} is no support".format(version)
+        else:
+            return {"X":"Japan"}
+@app.get("/items/art/{version}")
+async def read_art_v(version:str):
+    if version[-1] == new_ver:
+        return json_load
+    else:
+        return "現在のバージョンはv{}です".format(new_ver)
 
-@app.get("/items/{item_id}")
-async def read_items(item_id:str, q:Union[str, None]=None):
-    if q:
-        return {"item_id":item_id, "q":q}
-    return {"item_id":item_id}
+# @app.get("/items/{item_id}")
+# async def read_items(item_id:str, q:Union[str, None]=None):
+#     if q:
+#         return {"item_id":item_id, "q":q}
+#     return {"item_id":item_id}
 
 @app.get("/items/")
 async def read_item(skip:int=0, limit:int=10):
