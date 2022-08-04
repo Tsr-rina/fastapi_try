@@ -75,72 +75,72 @@
 
 	"France":[{
         "product_f1":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"デルフト柄の花瓶にいけられた花束",
+            "p_kana":"Deruhutogarano-kabinni-ikerareta-hanataba",
+            "p_year":"1873",
+            "p_explanation":"セザンヌが印象主義時代に描いた作品の1つ",
             "author":[{
                 "a_name":"ポール・セザンヌ",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Paul Cezanne",
+                "a_birthday":"1839-01-19",
                 "a_from": "France",
-                "a_info": ""
+                "a_info": "フランスの画家。当初はクロード・モネやピエール＝オーギュスト・ルノワールらとともに印象派のグループの一員として活動していたが、1880年代からグループを離れ、伝統的な絵画の約束事にとらわれない独自の絵画様式を探求した。ポスト印象派の画家として紹介されることが多く、キュビスムをはじめとする20世紀の美術に多大な影響を与えたことから、しばしば「近代絵画の父」として言及される。"
             }],
             "by": "Wikipedia"
         }],
         "product_f2":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"ディエップの港",
+            "p_kana":"Dhieppunominato",
+            "p_year":"1881-85",
+            "p_explanation":"ディエップはフランスにあるイギリス海峡に面した港町",
             "author":[{
                 "a_name":"ポール・ゴーギャン",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Paul Gauguin",
+                "a_birthday":"1848-06-07",
                 "a_from": "France",
                 "a_info": ""
             }],
             "by": "Wikipedia"
         }],
         "product_f3":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"瓶乾燥機",
+            "p_kana":"Bottle Rack",
+            "p_year":"1914",
+            "p_explanation":"購入したボトルラックにサインなどを記載して作品としたとされている",
             "author":[{
                 "a_name":"マルセン・デュシャン",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Marcel Duchamp",
+                "a_birthday":"1887-07-28",
                 "a_from": "France",
-                "a_info": ""
+                "a_info": "フランス生まれの美術家。20世紀美術に決定的な影響を残した。画家として出発したが、油彩画の制作は1910年代前半に放棄した。チェスの名手としても知られた。ローズ・セラヴィ（Rrose Sélavy）という名義を使ったこともある。2人の兄、ジャック・ヴィヨン（Jacques Villon, 1875年 - 1963年）とレイモン・デュシャン＝ヴィヨン（Raymond Duchamp-Villon, 1876年 - 1919年）も美術家。1955年、アメリカ国籍を取得した。"
             }],
             "by": "Wikipedia"
         }],
         "product_f4":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"帽子の女",
+            "p_kana":"Boushino-onna",
+            "p_year":"1905",
+            "p_explanation":"マティスの妻のアメリを描いた作品",
             "author":[{
                 "a_name":"アンリ・マティス",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Henri Matisse",
+                "a_birthday":"1869-12-31",
                 "a_from": "France",
-                "a_info": ""
+                "a_info": "フランスの画家。フォーヴィスム（野獣派）のリーダー的存在であり、野獣派の活動が短期間で終わった後も20世紀を代表する芸術家の一人として活動を続けた。自然をこよなく愛し「色彩の魔術師」と謳われ、緑あふれる世界を描き続けた画家であった。彫刻および版画も手がけている。"
             }],
             "by": "Wikipedia"
         }],
         "product_f5":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"睡蓮",
+            "p_kana":"Suiren",
+            "p_year":"1919",
+            "p_explanation":"池の水面にスイレンが写り、水面から反射する光を示している",
             "author":[{
                 "a_name":"クロード・モネ",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Claude Monet",
+                "a_birthday":"1840-11-14",
                 "a_from": "France",
-                "a_info": ""
+                "a_info": "1840年にパリで生まれたが、5歳のころから少年時代の大半をノルマンディー地方のル・アーヴルで過ごした。絵がうまく、人物のカリカチュアを描いて売るほどであったが、18歳のころに風景画家ブーダンと知り合い、戸外での油絵制作を教えられた（→ル・アーヴル（少年時代））。1859年にパリに出て絵の勉強を始め、ピサロ、シスレー、バジール、ルノワールといった仲間と知り合った（→画塾時代）。"
             }],
             "by": "Wikipedia"
         }]
@@ -148,129 +148,201 @@
     }],
     "America":[{
         "product_a1":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"キャンベルのスープ缶",
+            "p_kana":"Cambell's Soup Cans",
+            "p_year":"1962",
+            "p_explanation":"32個のキャンベルのスープ缶が描かれている",
             "author":[{
                 "a_name":"アンディ・ウォーホル",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Andy Warhol",
+                "a_birthday":"1928-08-06",
                 "a_from": "America",
-                "a_info": ""
+                "a_info": "チェコスロバキア共和国ゼムプリーン県（現・スロバキア共和国プレショウ県）ストロプコウ郡ミコー村（現・ミコヴァー村）から移民したルシン人の父オンドレイ（アンドレイ）と母ユーリア（ジュリア）の三男として、米ペンシルベニア州ピッツバーグで生まれる。移民前の元の姓はヴァルホラ（スロバキア語:Varchola,ルシン語:Вархола）。2人の兄（ポール、ジョン）がいた。ルシン人の両親は敬虔なルテニア東方典礼カトリック教徒で、彼自身も同様に育ち生涯を通じ教会へ通った。"
             }],
             "by": "Wikipedia"
         }],
         "product_a2":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"秋のリズム(ナンバー30)",
+            "p_kana":"Akinorizumu",
+            "p_year":"1950",
+            "p_explanation":"流し込み絵画のスタイル",
             "author":[{
                 "a_name":"ジャクソン・ポロック",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Jackson Pollock",
+                "a_birthday":"1912-01-28",
                 "a_from": "America",
-                "a_info": ""
+                "a_info": "20世紀のアメリカの画家。抽象表現主義（ニューヨーク派）の代表的な画家であり、彼の画法はアクション・ペインティングとも呼ばれた。抽象表現主義の画家たちの活躍により、1950年ごろから美術の中心地はパリではなくニューヨークであると考えられるようになった。"
             }],
             "by": "Wikipedia"
         }],
         "product_a3":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"Untitled",
+            "p_kana":"untitled",
+            "p_year":"1935",
+            "p_explanation":"白いキャンバスに円や線が描かれている",
             "author":[{
                 "a_name":"アレクサンダー・カルダー",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Alexander Calder",
+                "a_birthday":"1898-07-22",
                 "a_from": "America",
-                "a_info": ""
+                "a_info": "アメリカ合衆国の彫刻家・現代美術家。動く彫刻「モビール」の発明と制作で知られている。「色彩の魔術師」とも言われる。"
             }],
             "by": "Wikipedia"
         }],
         "product_a4":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"Ground Swell",
+            "p_kana":"ground swell",
+            "p_year":"1939",
+            "p_explanation":"不吉なブイを見ながら軽いうねりの中でヒールキャットボートに乗った5人の人物を描いている",
             "author":[{
                 "a_name":"エドワード・ホッパー",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Edward Hopper",
+                "a_birthday":"1882-07-22",
                 "a_from": "America",
-                "a_info": ""
+                "a_info": "20世紀のアメリカの画家。油彩画で広く知られているが、水彩画家と版画家としてエッチングにも熟練していた。都会と田舎の風景の両方で細かく計算された表現は、現代のアメリカ生活のビジョンを反映している。"
             }],
             "by": "Wikipedia"
         }],
         "product_a5":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"No.6",
+            "p_kana":"number six",
+            "p_year":"1951",
+            "p_explanation":"バイオレット、グリーン、レッド。不均一でかすんでいる色合いで描かれた大きな色の広がりで構成されている",
             "author":[{
                 "a_name":"マーク・ロスコ",
-                "a_kana":"",
-                "a_birthday":"",
+                "a_kana":"Mark Rothko",
+                "a_birthday":"1903-09-25",
                 "a_from": "America",
-                "a_info": ""
+                "a_info": "ロシア系ユダヤ人のアメリカの画家。ジャクソン・ポロック、バーネット・ニューマン、ウィレム・デ・クーニングらとともに、抽象表現主義の代表的な画家である。"
             }],
             "by": "Wikipedia"
         }]        
     }],
     "Italy":[{
         "product_i1":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"ヴィーナスの誕生",
+            "p_kana":"Venere-no-tanjo",
+            "p_year":"1486",
+            "p_explanation":"キャンバス地に描かれたテンペラ画。縦172.5cm、幅278.5cmの大作である。",
             "author":[{
-                "a_name":"アンディ・ウォーホル",
-                "a_kana":"",
-                "a_birthday":"",
-                "a_from": "America",
-                "a_info": ""
+                "a_name":"サンドロ・ボッティチェッリ",
+                "a_kana":"Sandro Botteicelli",
+                "a_birthday":"1445-03-01",
+                "a_from": "Italy",
+                "a_info": "ルネサンス期のイタリアのフィレンツェ生まれの画家で、本名はアレッサンドロ・ディ・マリアーノ・フィリペーピ (Alessandro di Mariano Filipepi) といい、ボッティチェッリは兄が太っていたことから付いた「小さな樽」という意味のあだ名である。ボッティチェルリ、ボッティチェリ、ボティチェリ、ボティチェッリなどと表記されることもある。"
             }],
             "by": "Wikipedia"
         }],
         "product_i2":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"最後の晩餐",
+            "p_kana":"Saigo-no-bansan",
+            "p_year":"1498",
+            "p_explanation":"イエス・キリストと12使徒による最後の晩餐を題材としたもの。12使徒の中の1人が私を裏切るとキリストが予言したときの情景が描かれている",
             "author":[{
-                "a_name":"ジャクソン・ポロック",
-                "a_kana":"",
-                "a_birthday":"",
-                "a_from": "America",
-                "a_info": ""
+                "a_name":"レオナルド・ダ・ヴィンチ",
+                "a_kana":"Leonardo da Vinci",
+                "a_birthday":"1452-04-15",
+                "a_from": "Italy",
+                "a_info": "レオナルドの名前は神話に包まれている。ルネサンス期を代表する芸術家であり、「飽くなき探究心」と「尽きることのない独創性」を兼ね備えた人物といわれている。史上最高の画家の一人と評されるとともに、人類史上で最も多才との呼び声も高い人物である。"
             }],
             "by": "Wikipedia"
         }],
         "product_i3":[{
-            "p_name":"",
-            "p_kana":"",
-            "p_year":"",
-            "p_explanation":"",
+            "p_name":"最後の審判",
+            "p_kana":"Saigono-sinpan",
+            "p_year":"1541",
+            "p_explanation":"バチカン宮殿のシスティーナ礼拝堂の祭壇に描かれたフレスコ画",
             "author":[{
-                "a_name":"アレクサンダー・カルダー",
-                "a_kana":"",
-                "a_birthday":"",
-                "a_from": "America",
-                "a_info": ""
+                "a_name":"ミケランジェロ・ブオナローティ",
+                "a_kana":"Michelangelo Buonarroti",
+                "a_birthday":"1475-03-06",
+                "a_from": "Italy",
+                "a_info": "西洋美術史上のあらゆる分野に、大きな影響を与えた芸術家である。ミケランジェロ自身が本業と考えていた彫刻分野以外の作品は決して多くはないにもかかわらず、様々な分野で優れた芸術作品を残したその多才さから、レオナルド・ダ・ヴィンチと同じく、ルネサンス期の典型的な「万能（の）人」と呼ばれる。"
             }],
             "by": "Wikipedia"
         }],
         "product_i4":[{
+            "p_name":"友人との自画像",
+            "p_kana":"Yujin-tono-jigazo",
+            "p_year":"1520",
+            "p_explanation":"「二人の肖像」や「二重肖像」とも呼ばれる。発注主や制作経緯は全く謎に包まれている",
+            "author":[{
+                "a_name":"ラファエロ・サンティ",
+                "a_kana":"Raffaello Santi",
+                "a_birthday":"1483-04-06",
+                "a_from": "Italy",
+                "a_info": "盛期ルネサンスを代表するイタリアの画家、建築家。一般的には単にラファエロと呼ばれ、日本ではラファエッロ、ラファエルロ、ラファエルなどという表記のゆれが見られる。イギリスではラファエルと呼ばれるのが一般的である。ラファエロの作品はその明確さと分かりやすい構成とともに、雄大な人間性を謳う新プラトン主義を美術作品に昇華したとして高く評価されており、レオナルド・ダ・ヴィンチ、ミケランジェロとともに、盛期ルネサンスの三大巨匠といわれている。"
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_i5":[{
             "p_name":"",
             "p_kana":"",
             "p_year":"",
             "p_explanation":"",
             "author":[{
-                "a_name":"エドワード・ホッパー",
+                "a_name":"ジョヴァンニ＿セガンティーニ",
                 "a_kana":"",
                 "a_birthday":"",
-                "a_from": "America",
+                "a_from": "Italy",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }]        
+    }],
+    "Spain":[{
+        "product_s1":[{
+            "p_name":"記憶の固執",
+            "p_kana":"Kioku-no-kosyu",
+            "p_year":"1931",
+            "p_explanation":"スペインのカタルーニャ地方のクレウス岬半島が描かれている",
+            "author":[{
+                "a_name":"サルバドール・ダリ",
+                "a_kana":"Salvador Dali",
+                "a_birthday":"1904-05-11",
+                "a_from": "Spain",
+                "a_info": "ダリは1904年5月11日、スペインのカタルーニャ地方フィゲーラスで、裕福な公証人サルバドール・ダリ・イ・クシ（Salvador Dalí i Cusí）（1872〜1950）の息子として生まれた。母親フェリパ（旧姓ドメネク・フェレス）（1874〜1921）も富裕な商家出身で、一族は自らをユダヤ系の血筋と信じている。ダリには幼くして亡くなった兄がいて、同じ「サルバドール」という名が付けられていた。これは少年ダリに大きな心理的影響を与えた。少年時代から絵画に興味を持ち、パブロ・ピカソの友人であった画家のラモン・ピショット（en:Ramon Pichot）から才能を認められた。1922年、マドリードの王立サン・フェルナンド美術アカデミーに入学し、フェデリコ・ガルシーア・ロルカ（詩人）、ルイス・ブニュエル（映画監督）と知り合った。ブニュエルとは、1928年にシュルレアリスムの代表的映画『アンダルシアの犬』を共同制作した。"
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_s2":[{
+            "p_name":"鳩と少女",
+            "p_kana":"Hato-to-syojo",
+            "p_year":"1901",
+            "p_explanation":"白い鳩を抱いた白いドレスを着た少女の描写であり、アーティストのキャリアにおける重要な過渡期を表している",
+            "author":[{
+                "a_name":"パブロ・ピカソ",
+                "a_kana":"Pablo Picasso",
+                "a_birthday":"1881-10-25",
+                "a_from": "Spain",
+                "a_info": "スペインのマラガに生まれ、フランスで制作活動をした画家。フランス共産党員。ジョルジュ・ブラックとともに、キュビスムの創始者として知られる。生涯におよそ1万3500点の油絵と素描、10万点の版画、3万4000点の挿絵、300点の彫刻と陶器を制作し、最も多作な美術家であると『ギネスブック』に記されている。"
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_s3":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"フランシスコ・デ・ゴヤ",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "Spain",
+                "a_info": ""
+            }],
+            "by": "Wikipedia"
+        }],
+        "product_s4":[{
+            "p_name":"",
+            "p_kana":"",
+            "p_year":"",
+            "p_explanation":"",
+            "author":[{
+                "a_name":"エル・グレコ",
+                "a_kana":"",
+                "a_birthday":"",
+                "a_from": "Spain",
                 "a_info": ""
             }],
             "by": "Wikipedia"
@@ -281,10 +353,10 @@
             "p_year":"",
             "p_explanation":"",
             "author":[{
-                "a_name":"マーク・ロスコ",
+                "a_name":"ディエゴ・ベラスケス",
                 "a_kana":"",
                 "a_birthday":"",
-                "a_from": "America",
+                "a_from": "Spain",
                 "a_info": ""
             }],
             "by": "Wikipedia"
