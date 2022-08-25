@@ -33,3 +33,7 @@ async def read_art_v(version:str):
         return json_load
     else:
         return "現在のバージョンはv{}です".format(new_ver)
+
+@app.post("/qrcode")
+async def read_item(get):
+    return {"Hello World":"Hello"}
